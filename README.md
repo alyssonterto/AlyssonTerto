@@ -1,7 +1,7 @@
-#### Hello, everyone!
+### Hello, everyone!
 <p> My name is Alysson Terto, I'm a <b> full stack developer </b> (specialized in <b> backend </b>) and I live in Brazil </p>
 
-### Contact me:
+## Contact me:
 [![](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alyssonterto)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/alyssonterto)
 [![](https://img.shields.io/badge/GMAIL-f2f2f2?style=for-the-badge&logo=gmail&logoColor=red)](mailto:alysson.terto@academico.ifpb.edu.br)
